@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA366 - Agile Business and Data Layer Modeling with SAP Data Warehouse Cloud
 
 ## Description
 
