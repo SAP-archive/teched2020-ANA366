@@ -11,7 +11,8 @@ This session introduces attendees to...
 ## Requirements
 
 - Create a user space, and resize to 0,1 GB
-- Excel File Upload
+- Download the exercises CSV Files
+- or set connection to BIKE_SALES data
 
 ## Exercises
 
