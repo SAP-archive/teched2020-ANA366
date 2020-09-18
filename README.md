@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+Learn how the different modeling layers complement each other and allow for a new modeling experience. Get to know the benefits of the business and data layer, when to use what, and how to combine the two.
 
 ## Overview
 
