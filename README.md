@@ -15,9 +15,12 @@ This session introduces attendees to...
 - or set connection to BIKE_SALES data
 
 Tenants:
-- https://dwc-teched2020.us10.hcs.cloud.sap/dwaas-ui/index.html#/home
-- https://dwc-teched2020.eu10.hcs.cloud.sap/dwaas-ui/index.html#/home
-- https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
+
+Location | URL
+---------|-----
+US | https://dwc-teched2020.us10.hcs.cloud.sap/dwaas-ui/index.html#/home
+EMEA | https://dwc-teched2020.eu10.hcs.cloud.sap/dwaas-ui/index.html#/home
+APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
 - get a Trial Tenant after TechEd
 
