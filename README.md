@@ -10,7 +10,8 @@ This session introduces attendees to...
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+- Create a user space, and resize to 0,1 GB
+- Excel File Upload
 
 ## Exercises
 
