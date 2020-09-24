@@ -15,6 +15,10 @@ This session introduces attendees to...
 - or set connection to BIKE_SALES data
 
 Tenants:
+- Get a 30-Days free Trial Tenant
+https://saphanajourney.com/data-warehouse-cloud/trial/
+
+
 
 Location | URL
 ---------|-----
