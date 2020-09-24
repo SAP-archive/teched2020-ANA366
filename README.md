@@ -11,7 +11,7 @@ This session introduces attendees to...
 ## Requirements
 
 - Create a user space, and resize to 0,1 GB
-- Download the exercises CSV Files
+- Download the exercises [CSV Files](/csv_dataset/DWC_BIKE_SALES_DEMO.zip)
 - or set connection to BIKE_SALES data
 
 Tenants:
