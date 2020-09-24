@@ -17,7 +17,7 @@ This session introduces attendees to...
 Tenants:
 - Get a 30-Days free Trial Tenant
 https://saphanajourney.com/data-warehouse-cloud/trial/
-
+![GitHub Logo](/images/logo.png)
 
 
 Location | URL
