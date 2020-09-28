@@ -2,7 +2,7 @@
 
 In this exercise, we will create...
 
-## Exercise 1.1 Import Products
+## Exercise 1.1 Import Products CSV File
 
 After completing these steps you will have created...
 
@@ -16,7 +16,7 @@ response->set_text( |Hello World! | ).
 
 
 
-## Exercise 1.2 Import Sales Pipeline
+## Exercise 1.2 Import Sales Pipeline CSV File
 
 After completing these steps you will have...
 
@@ -35,7 +35,7 @@ READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
 2.	Click here.
 <br>![](/exercises/ex1/images/01_02_0010.png)
 
-## Exercise 1.3 Import Sales Quota
+## Exercise 1.3 Import Sales Quota CSV File
 After completing these steps you will have...
 
 1.	Enter this code.
