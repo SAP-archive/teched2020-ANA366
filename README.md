@@ -34,20 +34,21 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - Import the Bikes Sales Dataset 
     - Import Product
-    - Import Sales Pipeline Data
+    - Import Sales Pipeline 
     - Import Sales Quota
     - Create Time Dimension on Date granularity
     - Create Time Dimension on Quarter granularity
     
 - Create Data Layer Models
-    - Create Graphical View
+    - Create Relational Dataset Product
+    - Create Relational Dataset Sales Pipeline
     - Create SQL View
     
 - Create Business Layer Models
     - Create Dimension Product
     - Create Dimension Time Dimension - Date 
     - Create Dimension Time Dimension - Quarter
-    - Create Analytical Dataset - Sales Pipline
+    - Create Analytical Dataset - Sales Pipeline
     - Create Analytical Dataset - Quota
     
 - Create Consumption Models
