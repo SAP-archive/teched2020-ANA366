@@ -32,7 +32,12 @@ APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- Import CSV File
+- Import the Bikes Sales Dataset 
+    - Import Product
+    - Import Sales Pipeline Data
+    - Import Sales Quota
+    - Create Time Dimension on Date granularity
+    - Create Time Dimension on Quarter granularity
 - Create Data Layer Entities
     - Create Graphical View
     - Create SQL View
