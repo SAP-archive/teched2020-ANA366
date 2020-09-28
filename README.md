@@ -44,12 +44,15 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - Create SQL View
     
 - Create Business Layer Models
-    - Sales Pipeline per Quarter
-      - Create Business Layer Models
-      - Create Consumption Models
-    - Sales Quota Coverage
-      - Create Business Layer Models
-      - Create Consumption Models
+    - Create Dimension Product
+    - Create Dimension Time Dimension - Date 
+    - Create Dimension Time Dimension - Quarter
+    - Create Analytical Dataset - Sales Pipline
+    - Create Analytical Dataset - Quota
+    
+- Create Consumption Models
+    - Create Consumption Model - Sales Pipeline per Quarter
+    - Create Consumption Model - Sales Quota Coverage
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
