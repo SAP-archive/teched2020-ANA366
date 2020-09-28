@@ -32,10 +32,10 @@ APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- Import the Bikes Sales Dataset 
-    - Import Product
-    - Import Sales Pipeline 
-    - Import Sales Quota
+- [Exercise 1 - Import the Bikes Sales Dataset](exercises/ex1/)
+    - Import CSV File - Product
+    - Import CSV File - Sales Pipeline 
+    - Import CSV File - Sales Quota
     
 - Create Data Layer Models
     - Create Relational Dataset Product
