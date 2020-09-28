@@ -33,7 +33,7 @@ APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Exercise 1 - Import the Bikes Sales Dataset](exercises/ex1/)
-    - [Exercise 1.1 - Import CSV File - Product](exercises/ex1/#exercise-12-import-sales-pipeline)
+    - [Exercise 1.1 - Import CSV File - Product](exercises/ex1/README.md#exercise-11-import-products)
     - Import CSV File - Product
     - Import CSV File - Sales Pipeline 
     - Import CSV File - Sales Quota
