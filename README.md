@@ -40,8 +40,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - Create Time Dimension on Quarter granularity
 - Sales Pipeline per Quarter
     - Create Data Layer Models
-          - Create Graphical View
-          - Create SQL View
+      - Create Graphical View
+      - Create SQL View
     - Create Business Layer Models
     - Create Consumption Models
 - Sales Quota Coverage
