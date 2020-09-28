@@ -38,16 +38,18 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - Import Sales Quota
     - Create Time Dimension on Date granularity
     - Create Time Dimension on Quarter granularity
-- Sales Pipeline per Quarter
-    - Create Data Layer Models
-      - Create Graphical View
-      - Create SQL View
-    - Create Business Layer Models
-    - Create Consumption Models
-- Sales Quota Coverage
-    - Create Data Layer Models
-    - Create Business Layer Models
-    - Create Consumption Models
+    
+- Create Data Layer Models
+    - Create Graphical View
+    - Create SQL View
+    
+- Create Business Layer Models
+    - Sales Pipeline per Quarter
+      - Create Business Layer Models
+      - Create Consumption Models
+    - Sales Quota Coverage
+      - Create Business Layer Models
+      - Create Consumption Models
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
