@@ -34,8 +34,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Exercise 1 - Import the Bikes Sales Dataset](exercises/ex1/)
     - [Exercise 1.1 - Import Products](exercises/ex1/README.md#exercise-11-import-products)
-    - [Exercise 1.2 - Import Sales Pipepline](/ex1/README.md#exercise-12-import-sales-pipeline)
-    - [Exercise 1.3 - Import Sales Quota](/ex1/README.md#exercise-13-import-sales-quota)
+    - [Exercise 1.2 - Import Sales Pipepline](exercises/ex1/README.md#exercise-12-import-sales-pipeline)
+    - [Exercise 1.3 - Import Sales Quota](exercises/ex1/README.md#exercise-13-import-sales-quota)
     
 - [Exercise 2 - Create Data Layer Models](exercises/ex2/)
     - Create Relational Dataset Product
