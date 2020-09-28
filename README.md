@@ -38,10 +38,10 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 1.3 - Import Sales Quota CSV File](exercises/ex1/README.md#exercise-13-import-sales-quota-csv-file)
      
 - [Exercise 2 - Create Data Layer Models](exercises/ex2/)
-    - Create Relational Dataset Product
-    - Create Relational Dataset Sales Pipeline
-    - Create Relational Dataset Sales Quota
-    - Generate Time Dimension
+    - [Exercise 2.1 - Create Products View](exercises/ex2/README.md#exercise-21-create-products-view)
+    - [Exercise 2.2 - Create Sales Pipeline View](exercises/ex2/README.md#exercise-22-create-sales-pipeline-view)
+    - [Exercise 2.3 - Create Sales Quota View](exercises/ex2/README.md#exercise-23-create-sales-quota-view)
+    - [Exercise 2.4 - Generate Time Dimension](exercises/ex2/README.md#exercise-24-generate-time-dimension)
     
 - [Exercise 3 - Create Business Layer Models](exercises/ex3/)
     - Create Dimension Product
