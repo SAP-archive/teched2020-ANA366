@@ -27,8 +27,10 @@ APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
 3.) Create a Space 
 - Navigate to Space Management and click on the 'Create Space'-Button:
-- ![Create Space](/images/create_space.png)
- 
+  ![Create Space](/images/create_space.png)
+- Enter a new Space Name
+- Please make sure to reset the Disk and In-Memory size to 0.1GB.
+  ![Resize Space](/images/resize_space.png)
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
