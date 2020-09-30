@@ -32,7 +32,8 @@ In order to do the modeling exercises please make sure that your user has been a
 - Enter a new Space Name
 - Please make sure to reset the Disk and In-Memory size to 0.1GB.
   ![Resize Space](/images/resize_space.png)
-- In the 'Member Assignment section, please add your User to the new crewated space.
+- In the 'Member Assignment section, please add your User to the new created space.
+- Please make user that your user has been assigned with the role 'DW Modeler'.
 
 ## Exercises
 
