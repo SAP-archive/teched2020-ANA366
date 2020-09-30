@@ -10,11 +10,12 @@ This session introduces attendees to...
 
 ## Requirements
 
-1. Get your self a SAP Data Warehouse Tenant:
-- Get a 30-Days free Trial Tenant
+1. SAP Data Warehouse Tenant:
+Get a 30-Days free Trial Tenant
 https://saphanajourney.com/data-warehouse-cloud/trial/
 ![DWC_Free_Trial](/images/FreeDWCTrial.png)
 
+During the Teched 2020, following tenants are accessible:
 
 Location | URL
 ---------|-----
@@ -22,8 +23,11 @@ US | https://dwc-teched2020.us10.hcs.cloud.sap/dwaas-ui/index.html#/home
 EMEA | https://dwc-teched2020.eu10.hcs.cloud.sap/dwaas-ui/index.html#/home
 APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
-- get a Trial Tenant after TechEd
+2.) Download the [CSV Test Data](/csv_dataset/DWC_BIKE_SALES_DEMO.zip) for the the exercises
 
+3.) Create a Space 
+- go to Space Management
+- 
  
 ## Exercises
 
