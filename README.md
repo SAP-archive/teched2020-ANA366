@@ -6,7 +6,7 @@ Learn how the different modeling layers complement each other and allow for a ne
 
 ## Overview
 
-This session introduces attendees to...
+In this session you will get to know about the new Business Layer modeling environment by implementing an end-to-end scenario of *Sales Pipeline per Quarter* and *Sales Quota Coverage*. 
 
 ![Exercise Overview](/images/exercise_overview.png)
 
