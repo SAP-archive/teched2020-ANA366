@@ -8,6 +8,8 @@ Learn how the different modeling layers complement each other and allow for a ne
 
 This session introduces attendees to...
 
+![Exercise Overview](/images/exercise_overview.png)
+
 ## Requirements
 
 1. SAP Data Warehouse Tenant:
