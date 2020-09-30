@@ -6,7 +6,7 @@ Learn how the different modeling layers complement each other and allow for a ne
 
 ## Overview
 
-In this session you will get to know about the new Business Layer modeling environment by implementing an end-to-end scenarios, such as *Sales Pipeline per Quarter* and *Sales Quota Coverage*. During the course of the exercises you will learn:
+In this session you will get to know about the new Business Layer modeling environment by implementing end-to-end scenarios, such as *Sales Pipeline per Quarter* and *Sales Quota Coverage*. During the course of the exercises you will learn:
 - how to use the new *Business Builder*
 - how to associate the Business Entities
 - how to define *Calculated Measures*
