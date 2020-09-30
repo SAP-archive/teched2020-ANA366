@@ -6,7 +6,13 @@ Learn how the different modeling layers complement each other and allow for a ne
 
 ## Overview
 
-In this session you will get to know about the new Business Layer modeling environment by implementing an end-to-end scenario of *Sales Pipeline per Quarter* and *Sales Quota Coverage*. 
+In this session you will get to know about the new Business Layer modeling environment by implementing an end-to-end scenarios, such as *Sales Pipeline per Quarter* and *Sales Quota Coverage*. During the course of the exercises you will learn:
+- how to use the new Business Builder
+- how to associate the entities
+- how to define calculated measures
+- how to use the data preview
+- how to create consumable model 
+- how to build an SAP Analytics Cloud story 
 
 ![Exercise Overview](/images/exercise_overview.png)
 
