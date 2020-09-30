@@ -10,10 +10,7 @@ This session introduces attendees to...
 
 ## Requirements
 
-- Create a user space, and resize to 0,1 GB
-- Download the [CSV Test Data](/csv_dataset/DWC_BIKE_SALES_DEMO.zip) for the the exercises
-
-Tenants:
+1. Get your self a SAP Data Warehouse Tenant:
 - Get a 30-Days free Trial Tenant
 https://saphanajourney.com/data-warehouse-cloud/trial/
 ![DWC_Free_Trial](/images/FreeDWCTrial.png)
