@@ -17,6 +17,7 @@ In this session you will get to know about the new Business Layer modeling envir
 ![Exercise Overview](/images/exercise_overview.png)
 
 ## Requirements
+Before you can start with the exercises, please make sure the following:
 
 1. SAP Data Warehouse Tenant:
 Get a 30-Days free Trial Tenant
