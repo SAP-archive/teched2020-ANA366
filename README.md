@@ -50,11 +50,12 @@ Please make sure that your user has been asigned to this space:
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Exercises | Link
+---------|-----
 
-Please download the exercise 1 *Sales Pipeline per Quarter*: [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf).
+Exercise 1 *Sales Pipeline per Quarter* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf)
 
-Please download the exercise 2 *Sales Pipeline Coverage*: [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf).
+Exercise 2 *Sales Pipeline Coverage* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf)
 
 
 **IMPORTANT**
