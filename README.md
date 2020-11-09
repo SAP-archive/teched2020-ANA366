@@ -48,9 +48,9 @@ In order to do the modeling exercises please make sure that your user has been a
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-Please download the exercise 1 *Sales Pipeline per Quarter* [here](exercises/myPDFDoc.pdf).
+Please download the exercise 1 *Sales Pipeline per Quarter*: [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf).
 
-Please download the exercise 2 *Sales Pipeline Coverage* [here](exercises/myPDFDoc.pdf).
+Please download the exercise 2 *Sales Pipeline Coverage*: [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf).
 
 
 **OR** Link to the PDF document stored in your github repo for example...
