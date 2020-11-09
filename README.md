@@ -20,7 +20,7 @@ In this session you will get to know about the new Business Layer modeling envir
 Before you can start with the exercises, please make sure the following:
 
 ### 1. Get the test dataset
-Please download the [CSV Test Data](/csv_dataset/DWC_BIKE_SALES_DEMO.zip) for the the exercises.
+Please download the CSV test datasets [DWC_BIKE_SALES_DEMO.zip](/csv_dataset/DWC_BIKE_SALES_DEMO.zip) for the the exercises.
 
 ### 2. Get an SAP Data Warehouse Tenant:
 **During the TechEd 2020 event on the 10th December 2020**, there will be dedicated tenants provided for registered participants.
