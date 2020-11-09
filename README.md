@@ -16,7 +16,7 @@ In this session you will get to know about the new Business Layer modeling envir
 
 ![Exercise Overview](/images/exercise_overview.png)
 
-## Requirements
+## Prereqisitees
 Before you can start with the exercises, please make sure the following:
 
 1. SAP Data Warehouse Tenant:
