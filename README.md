@@ -32,14 +32,13 @@ US | https://dwc-teched2020.us10.hcs.cloud.sap/dwaas-ui/index.html#/home
 EMEA | https://dwc-teched2020.eu10.hcs.cloud.sap/dwaas-ui/index.html#/home
 APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
-<p/><p/><p/>
 
 - **After the TechEd event** the tenants won't be available. For that you can apply for a **30-Days free Trial Tenant** under the following link:
 https://saphanajourney.com/data-warehouse-cloud/trial/
 ![DWC_Free_Trial](/images/FreeDWCTrial.png)
 
 
--- Create a Space 
+..- Create a Space 
 In order to do the modeling exercises please make sure that your user has been asigned to a space.
 - Navigate to Space Management and click on the 'Create Space'-Button:
   ![Create Space](/images/create_space.png)
