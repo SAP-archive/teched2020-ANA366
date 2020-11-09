@@ -19,8 +19,8 @@ In this session you will get to know about the new Business Layer modeling envir
 ## Prerequisites
 Before you can start with the exercises, please make sure the following:
 
-### Get the test dataset
-1.) Download the [CSV Test Data](/csv_dataset/DWC_BIKE_SALES_DEMO.zip) for the the exercises
+### 1. Get the test dataset
+Please download the [CSV Test Data](/csv_dataset/DWC_BIKE_SALES_DEMO.zip) for the the exercises.
 
 2.) SAP Data Warehouse Tenant:
 Get a 30-Days free Trial Tenant
@@ -54,14 +54,6 @@ Please download the exercise 1 *Sales Pipeline per Quarter*: [ANA366_BL_Modeling
 
 Please download the exercise 2 *Sales Pipeline Coverage*: [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf).
 
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
