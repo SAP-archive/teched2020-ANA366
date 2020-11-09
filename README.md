@@ -48,9 +48,10 @@ In order to do the modeling exercises please make sure that your user has been a
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-Start the exercise 1 [Sales Pipeline per Quarter](exercises/myPDFDoc.pdf).
+Please download the exercise 1 *Sales Pipeline per Quarter* [here](exercises/myPDFDoc.pdf).
 
-Start the exercise 2 [Sales Pipeline Coverage](exercises/myPDFDoc.pdf).
+Please download the exercise 2 *Sales Pipeline Coverage* [here](exercises/myPDFDoc.pdf).
+
 
 **OR** Link to the PDF document stored in your github repo for example...
 
