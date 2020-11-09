@@ -52,9 +52,7 @@ Please make sure that your user has been asigned to this space:
 
 Exercises | Link
 ---------|-----
-
 Exercise 1 *Sales Pipeline per Quarter* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf)
-
 Exercise 2 *Sales Pipeline Coverage* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf)
 
 
