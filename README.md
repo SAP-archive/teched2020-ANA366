@@ -37,7 +37,6 @@ APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 https://saphanajourney.com/data-warehouse-cloud/trial/
 ![DWC_Free_Trial](/images/FreeDWCTrial.png)
 
-
 After getting a trial tenant, plese create a Space in order to apply the exercises. 
 Please make sure that your user has been asigned to this space:
 - Navigate to Space Management and click on the 'Create Space'-Button:
