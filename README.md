@@ -34,7 +34,7 @@ EMEA | https://dwc-teched2020.eu10.hcs.cloud.sap/dwaas-ui/index.html#/home
 APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
 
-*After the TechEd event* the tenants won't be available. For that you can apply for a *30-Days free Trial Tenant* under the following link:
+**After the TechEd event** the tenants won't be available. For that you can apply for a **30-Days free Trial Tenant** under the following link:
 https://saphanajourney.com/data-warehouse-cloud/trial/
 ![DWC_Free_Trial](/images/FreeDWCTrial.png)
 
