@@ -49,16 +49,13 @@ Please make sure that your user has been asigned to this space:
 - Please make sure that your User has been assigned with the role *DW Modeler*.
 
 ## Exercises
+Please download the exercises from here:
 
 Exercises | Link
 ---------|-----
 Exercise 1 *Sales Pipeline per Quarter* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf)
-Exercise 2 *Sales Pipeline Coverage* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf)
+Exercise 2 *Sales Pipeline Coverage* | [ANA366_BL_Modeling_Exercise_2.pdf](exercises/ANA366_BL_Modeling_Exercise_2.pdf)
 
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
