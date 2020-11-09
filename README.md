@@ -23,7 +23,7 @@ Before you can start with the exercises, please make sure the following:
 Please download the CSV test datasets [DWC_BIKE_SALES_DEMO.zip](/csv_dataset/DWC_BIKE_SALES_DEMO.zip) for the the exercises.
 
 ### 2. Get an SAP Data Warehouse Tenant:
-**During the TechEd 2020 event on the 10th December 2020**, there will be dedicated tenants provided for registered participants.
+- **During the TechEd 2020 event on the 10th December 2020**, there will be dedicated tenants provided for registered participants.
 Please contact your session instructors for more detailed login informations.
 
 Location | URL
@@ -34,12 +34,12 @@ APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
 <p/><p/><p/>
 
-..* **After the TechEd event** the tenants won't be available. For that you can apply for a **30-Days free Trial Tenant** under the following link:
+- **After the TechEd event** the tenants won't be available. For that you can apply for a **30-Days free Trial Tenant** under the following link:
 https://saphanajourney.com/data-warehouse-cloud/trial/
 ![DWC_Free_Trial](/images/FreeDWCTrial.png)
 
 
-3.) Create a Space 
+-- Create a Space 
 In order to do the modeling exercises please make sure that your user has been asigned to a space.
 - Navigate to Space Management and click on the 'Create Space'-Button:
   ![Create Space](/images/create_space.png)
