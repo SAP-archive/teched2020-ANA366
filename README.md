@@ -22,7 +22,7 @@ Before you can start with the exercises, please make sure the following:
 ### 1. Get the test dataset
 Please download the CSV test datasets for the the exercises: [DWC_BIKE_SALES_DEMO.zip](/csv_dataset/DWC_BIKE_SALES_DEMO.zip).
 
-[DWC_BIKE_SALES_DEMO.zip](/images/sv_test_data.png).
+[DWC_BIKE_SALES_DEMO.zip](/images/csv_test_data.png).
 
 
 ### 2. Get an SAP Data Warehouse Tenant:
