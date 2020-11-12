@@ -20,7 +20,8 @@ In this session you will get to know about the new Business Layer modeling envir
 Before you can start with the exercises, please make sure the following:
 
 ### 1. Get the test dataset
-Please download the CSV test datasets for the the exercises: [DWC_BIKE_SALES_DEMO.zip](/csv_dataset/DWC_BIKE_SALES_DEMO.zip).
+For the exercises we have prepared a set of test data in CSV format, which we are going to use during the course of this workshop.
+Please download zipped test dataset via the following link: [DWC_BIKE_SALES_DEMO.zip](/csv_dataset/DWC_BIKE_SALES_DEMO.zip).
 
 ![DWC_BIKE_SALES_DEMO.zip](/images/csv_test_data.png).
 
