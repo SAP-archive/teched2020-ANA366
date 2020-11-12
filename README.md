@@ -22,6 +22,9 @@ Before you can start with the exercises, please make sure the following:
 ### 1. Get the test dataset
 Please download the CSV test datasets for the the exercises: [DWC_BIKE_SALES_DEMO.zip](/csv_dataset/DWC_BIKE_SALES_DEMO.zip).
 
+[DWC_BIKE_SALES_DEMO.zip](/images/sv_test_data.png).
+
+
 ### 2. Get an SAP Data Warehouse Tenant:
 - **During the TechEd 2020 event on the 10th December 2020**, there will be dedicated tenants provided for registered participants.
 Please contact your session instructors for more detailed login informations.
