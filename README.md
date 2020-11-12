@@ -38,7 +38,7 @@ https://saphanajourney.com/data-warehouse-cloud/trial/
 ![DWC_Free_Trial](/images/FreeDWCTrial.png)
 
 After getting a trial tenant, plese create a Space in order to apply the exercises. 
-Please make sure that your user has been asigned to this space:
+Please make sure that your user has been assigned to this space:
 - Navigate to Space Management and click on the 'Create Space'-Button:
   ![Create Space](/images/create_space.png)
 - Enter a new Space Name
