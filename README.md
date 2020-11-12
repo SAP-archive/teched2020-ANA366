@@ -38,7 +38,7 @@ APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
 
 - **After the TechEd event** the tenants won't be available. For that you can apply for a **30-Days free Trial Tenant** under the following link:
 https://saphanajourney.com/data-warehouse-cloud/trial/
-![DWC_Free_Trial](/images/FreeDWCTrial.png)
+[![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
 After getting a trial tenant, plese create a Space in order to apply the exercises. 
 Please make sure that your user has been assigned to this space:
