@@ -56,7 +56,7 @@ Please download the exercises from here:
 
 Exercises | Link
 ---------|-----
-Exercise 1 *Sales Pipeline per Quarter* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf) [![](/images/pdf_icon.png=100x20)](exercises/ANA366_BL_Modeling_Exercise_1.pdf
+Exercise 1 *Sales Pipeline per Quarter* | [ANA366_BL_Modeling_Exercise_1.pdf](exercises/ANA366_BL_Modeling_Exercise_1.pdf) [![](/images/pdf_icon.png = 100x)](exercises/ANA366_BL_Modeling_Exercise_1.pdf
 Exercise 2 *Sales Pipeline Coverage* | [ANA366_BL_Modeling_Exercise_2.pdf](exercises/ANA366_BL_Modeling_Exercise_2.pdf)
 
 
