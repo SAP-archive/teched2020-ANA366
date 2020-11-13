@@ -43,11 +43,8 @@ https://saphanajourney.com/data-warehouse-cloud/trial/
 [![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
 ### 3. Create a Space 
-Each user shall create his own space, where he can work on the exercises.
-The user will be handover to you by the instructor.
+Each user shall create his own space, where he can work on the exercises:
 
-After getting a trial tenant, plese create a Space in order to apply the exercises. 
-Please make sure that your user has been assigned to this space:
 - Navigate to Space Management and click on the 'Create Space'-Button
   ![Create Space](/images/create_space.png)
 - Enter a new Space Name should be same as your User, which you can get from your instructor during the workshop, e.g.: **ANA366_060**
