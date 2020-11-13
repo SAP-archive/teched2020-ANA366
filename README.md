@@ -27,13 +27,14 @@ Please download zipped test dataset via the following link: [DWC_BIKE_SALES_DEMO
 
 ### 2. Get an SAP Data Warehouse Tenant:
 2.1) **During the TechEd 2020 event on the 10th December 2020**, there will be dedicated tenants provided for registered participants.
-Please contact your session instructors for more detailed login informations.
+Please contact your instructor of the workshop to get access to the SAP DWC tenant.
 
 Location | URL
 ---------|-----
 US | https://dwc-teched2020.us10.hcs.cloud.sap/dwaas-ui/index.html#/home
 EMEA | https://dwc-teched2020.eu10.hcs.cloud.sap/dwaas-ui/index.html#/home
 APJ | https://dwc-teched2020.ap10.hcs.cloud.sap/dwaas-ui/index.html#/home
+
 
 
 2.2) **After the TechEd event** the tenants won't be available. For that you can apply for a **30-Days free Trial Tenant** under the following link:
