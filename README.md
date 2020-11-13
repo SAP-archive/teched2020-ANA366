@@ -50,7 +50,7 @@ Please make sure that your user has been assigned to this space:
 - Navigate to Space Management and click on the 'Create Space'-Button
   ![Create Space](/images/create_space.png)
 - Enter a new Space Name should be same as your User, which you can get from your instructor during the workshop, e.g.: **ANA366_060**
-  ![Create Space](/images/create_space.png)
+  ![Rename Space](/images/rename_space.png)
 
 - Please make sure to reset the Disk and In-Memory size to 0.1GB.
   ![Resize Space](/images/resize_space.png)
