@@ -48,16 +48,16 @@ The user will be handover to you by the instructor.
 
 After getting a trial tenant, plese create a Space in order to apply the exercises. 
 Please make sure that your user has been assigned to this space:
-3.1 Navigate to Space Management and click on the 'Create Space'-Button
+a. Navigate to Space Management and click on the 'Create Space'-Button
   ![Create Space](/images/create_space.png)
-3.2 Enter a new Space Name should be same as your User, which you can get from your instructor during the workshop, e.g.: **ANA366_060**
+b. Enter a new Space Name should be same as your User, which you can get from your instructor during the workshop, e.g.: **ANA366_060**
   ![Rename Space](/images/rename_space.png)
 
-3.3 Please make sure to reset the Disk and In-Memory size to 0.1GB.
+c. Please make sure to reset the Disk and In-Memory size to 0.1GB.
   ![Resize Space](/images/resize_space.png)
-3.4 In the section *Member Assignment*, please add your User, e.g., **ANA366_060**
+d. In the section *Member Assignment*, please add your User, e.g., **ANA366_060**
   ![Add User to Space](/images/add_user_to_space.png)
-3.5 Click on the SAVE Button to confirm your space configuration. 
+e. Click on the SAVE Button to confirm your space configuration. 
   ![Save Space](/images/save_space.png)
 
 ## Exercises
