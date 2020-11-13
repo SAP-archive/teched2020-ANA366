@@ -56,7 +56,7 @@ Please make sure that your user has been assigned to this space:
 - Please make sure to reset the Disk and In-Memory size to 0.1GB.
   ![Resize Space](/images/resize_space.png)
 - In the section *Member Assignment*, please add your User, e.g., **ANA366_060**
-  ![Add User to Space](/images/add_user_space.png)
+  ![Add User to Space](/images/add_user_to_space.png)
 - Click on the SAVE Button to confirm your space configuration. 
   ![Save Space](/images/save_space.png)
 
