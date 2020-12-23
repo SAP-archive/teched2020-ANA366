@@ -1,5 +1,7 @@
 # ANA366 - Agile Business and Data Layer Modeling with SAP Data Warehouse Cloud
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-ANA366)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-ANA366)
+
 ## Description
 
 Learn how the different modeling layers complement each other and allow for a new modeling experience. Get to know the benefits of the business and data layer, when to use what, and how to combine the two.
